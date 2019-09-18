@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/videoinfo/videoinfo",
+    "pages/report/report",
+    "pages/videotest/videotest",
+   "pages/userLogin/login",
+    "pages/mine/mine",
+    "pages/userRegist/regist",
+    "pages/chooseBgm/chooseBgm",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "虾子视频",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
